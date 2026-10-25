@@ -1,6 +1,6 @@
 # Ahmadreza Nikzad
 
-Frontend developer, mostly React and TypeScript.
+Frontend developer, React and TypeScript.
 
 I've been building websites and web apps for 4+ years. I started with WordPress, web design and SEO, then moved into frontend because I wanted to build more interactive, customized things than a page builder allows. Now I work full-time as a frontend developer and still take freelance WordPress projects, usually with some custom code on top.
 
