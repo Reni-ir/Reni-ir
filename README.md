@@ -24,6 +24,11 @@ What I like working on: data-heavy interfaces (tables, forms, state), CSS layout
 
 ## WordPress and SEO
 
-Before React, I built 50+ WordPress sites, mostly with Elementor, and worked on SEO for industrial services, construction, healthcare and product-based businesses.
+Before React, I built 50+ WordPress sites, mostly with Elementor, and worked on SEO for industrial services, construction, healthcare and product-based businesses. Selected projects:
+
+- **[ariopart.com](https://ariopart.com)**: E-commerce store with a login system and a customer loyalty club. Custom design built with a mix of custom code and Elementor, plus site speed optimization.
+- **[zhanetclinic.com](https://zhanetclinic.com)**: Website for a rehabilitation clinic (speech therapy and occupational therapy). Custom design built with custom code and Elementor, with local SEO.
+- **[hamiranboresh.com](https://hamiranboresh.com)**: Website for a metal cutting service. Custom design with SEO targeting the high-traffic keyword "laser cutting" (برش لیزر).
+- **[savinio.tech](https://savinio.tech)**: Website for a network services company. Custom design with site optimization.
 
 
